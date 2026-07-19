@@ -5,7 +5,8 @@ Welcome to my personal portfolio! This project showcases my skills, projects, ce
 ## 🚀 Live Demo
 
 🔗 Add your portfolio link here:
-"C:\Users\aazim\Downloads\mohamed_mydeen_portfolio.html"
+
+C:\Users\aazim\Downloads\mohamed_mydeen_portfolio.html
 
 ## 📌 About the Project
 
